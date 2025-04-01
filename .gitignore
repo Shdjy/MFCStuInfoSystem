@@ -22,8 +22,8 @@
 # 忽略 C++ 对象文件、库和可执行文件
 *.obj
 #*.exe
-*.dll
-*.lib
+#*.dll
+#*.lib
 *.pdb
 *.idb
 
